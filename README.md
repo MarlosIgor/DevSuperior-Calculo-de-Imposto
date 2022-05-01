@@ -12,7 +12,7 @@ Pessoa jurídica: pessoas jurídicas pagam 16% de imposto. Porém, se a empresa 
 
 ## Diagrama :framed_picture:
 
-[image-20220501001624201](C:\Users\Igor\AppData\Roaming\Typora\typora-user-images\image-20220501001624201.png)
+[image-20220501001624201](https://raw.githubusercontent.com/devsuperior/aulao007/master/domain-model.png)
 
 
 
@@ -22,9 +22,6 @@ Pessoa jurídica: pessoas jurídicas pagam 16% de imposto. Porém, se a empresa 
 
 - Java
 
-
-
-##  [Meu Linkedin](www.linkedin.com/in/m-igor)
 
 
 
